@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.exe
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.deps.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.pdb
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.pdb
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.genruntimeconfig.cache

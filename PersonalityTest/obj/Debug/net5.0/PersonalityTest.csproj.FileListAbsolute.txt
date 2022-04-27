@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.exe
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.deps.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\ref\PersonalityTest.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.pdb
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\ref\PersonalityTest.dll
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.pdb
+C:\Users\KristjanMändmets\source\repos\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.genruntimeconfig.cache
